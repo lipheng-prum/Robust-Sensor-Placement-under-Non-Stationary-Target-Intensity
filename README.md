@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Robust Sensor Placement under Non-Stationary Target Intensity
 
 A toy simulation study extending the barrier coverage sensor placement framework from [Kim et al. (2024)](https://ieeexplore.ieee.org/document/11014804) to handle non-stationary target intensity patterns.
@@ -240,7 +239,3 @@ MIT
 ## Contact
 
 For questions or collaboration, please contact Lipheng.
-=======
-# Robust-Sensor-Placement-under-Non-Stationary-Target-Intensity
-This notebook implements and evaluates my proposed extension to the barrier coverage sensor placement framework from:  > M. Kim, D. J. Stilwell, H. Yetkin, and J. Jimenez, "Near-optimal Sensor Placement  > for Detecting Stochastic Target Trajectories in Barrier Coverage Systems," IEEE, 2024.
->>>>>>> eafcc90de7ea898258519080ba61e6672e4d9a21
